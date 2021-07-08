@@ -1,0 +1,4 @@
+# StudentGrader
+
+⦁	Implement a 3-dimensional array to store grades. Each row will represent the grades of each of 4 (4, not 3, not 5) students and there will be 3 grades for each student (one for IST 110, 210, and 220 each), one for each of 2 tests; each class grade is wholly determined by the two tests weighted equally (hence a 4x3x2 array of doubles). Write a driver that initializes the array (see p. 169 in the text). Then determine (to 2 digits after the decimal point): 1) each students class average in each class (where each test is ranked equally), 2) each test’s average, 3) the class average for each class, 4) each student’s ETM average (ranking 110 at .25, and each of 210 and 220 at .375), and 5) the average ETM grade for all students.
+Do NOT prompt the user for this data; initialize the array in the main routine. 
